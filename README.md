@@ -1,6 +1,6 @@
 # Multi-year sea surface temperature data downloader, exporter and visualizer
 
-This repository downloads/fetches, exports and visualizes `Copernicus Marine Data'.
+This repository downloads/fetches, exports and visualizes `Copernicus Marine Data`.
 
 The provided `multi_year_sst_analysis.ipynb` performs an explanatory analysis on *sea surface temperature*.
 
