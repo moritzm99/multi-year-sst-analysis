@@ -4,7 +4,7 @@ This repository downloads/fetches, exports and visualizes `Copernicus Marine Dat
 
 The provided `multi_year_sst_analysis.ipynb` performs an explanatory analysis on *sea surface temperature*.
 
-The user is encouraged to modify and contribute to further analysis on different variables available in the `Copernicus Marine Ocean Produvts Cataloge`.
+The user is encouraged to modify and contribute to further analysis on different variables available in the `Copernicus Marine Ocean Products Cataloge`.
 
 ## Requirements
 
