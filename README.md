@@ -42,6 +42,7 @@ temporal_resolution = "Daily"
 
 ### 2. Data:
 - GeoDataFrame saved to GPKG containing mean and median,
+
   for every date range per year as seperate attribute columns
 
 ## Relevant References
