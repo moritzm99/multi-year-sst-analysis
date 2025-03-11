@@ -36,12 +36,13 @@ temporal_resolution = "Daily"
 ## Output
 
 ### 1. Plots:
-         - median plot for every date range per year
-         - mean plot for every date range per year
+         
+- median plot for every date range per year
+- mean plot for every date range per year
 
 ### 2. Data:
-         - GeoDataFrame saved to GPKG containing mean and median,
-           for every date range per year as seperate attribute columns
+- GeoDataFrame saved to GPKG containing mean and median,
+  for every date range per year as seperate attribute columns
 
 ## Relevant References
 
