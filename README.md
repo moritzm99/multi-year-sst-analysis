@@ -41,9 +41,10 @@ temporal_resolution = "Daily"
 - mean plot for every date range per year
 
 ### 2. Data:
-- GeoDataFrame saved to GPKG containing mean and median,
-
+- GeoDataFrame saved to GPKG containing mean and median
   for every date range per year as seperate attribute columns
+
+Find outputs of exemplary *sea surface temperature* analysis in the `output` folder of this repositry.
 
 ## Relevant References
 
