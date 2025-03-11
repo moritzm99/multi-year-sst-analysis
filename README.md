@@ -1,4 +1,4 @@
-# Multi-year sea surface temperature data downloader, exporter and visualizer
+# Multi-year sea surface temperature data downloader, exporter and visualizer with `Copernicus Marine Toolbox`
 
 This repository downloads/fetches, exports and visualizes `Copernicus Marine Data`.
 
