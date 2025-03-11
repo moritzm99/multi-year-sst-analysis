@@ -1,8 +1,6 @@
 # Multi-year sea surface temperature data downloader, exporter and visualizer with `Copernicus Marine Toolbox`
 
-This repository was mainly created for `Archipelagos` interns to maintain data harvesting from `Copernicus Ocean Products` for marine research purposes,
-
-it downloads/fetches, exports and visualizes `Copernicus Marine Data`.
+This repository was mainly created for `Archipelagos` interns to maintain data harvesting from `Copernicus Ocean Products` for marine research purposes, it downloads/fetches, exports and visualizes `Copernicus Marine Data`.
 
 The provided `multi_year_sst_analysis.ipynb` performs an explanatory analysis on *sea surface temperature*.
 
